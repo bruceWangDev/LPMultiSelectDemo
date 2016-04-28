@@ -2,7 +2,7 @@
 
 因为有朋友问了 表格单选多选 索性就写了一个Demo
 
-![LPMultiSelectDemo展示]()
+![LPMultiSelectDemo展示](https://github.com/EizoiOS/LPMultiSelectDemo/blob/master/LPMulitSelectGIF.gif)
 
 ## 联系 Support
 
